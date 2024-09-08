@@ -1,7 +1,7 @@
 ## Olá eu sou o Nicolas Oliveira
 
 ![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasOliveira01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasOliveira01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasOliveira01&layout=compact&theme=radical)
 
 <h2>Tecnologia que tenho conhecimento</h2>
 <div>
